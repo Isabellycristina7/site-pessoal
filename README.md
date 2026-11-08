@@ -26,9 +26,6 @@ O site funciona como um cartão de visitas online: quem acessa encontra quem eu 
    ```
 3. Abra o arquivo `index.html` no navegador.
 
-## Demonstração
-![Print do site](caminho-da-imagem.png)
-
 ## Próximos passos
 - [ ] Concluir todas as páginas
 - [ ] Deixar o layout responsivo (celular e computador)
